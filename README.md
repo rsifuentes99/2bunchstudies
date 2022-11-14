@@ -1,2 +1,2 @@
 # 2bunchstudies
-# A repo for documenting an LCLS internship
+Rafael Sifuentes' repo for documenting his LCLS internship.
